@@ -812,6 +812,11 @@ host-suffix,zalmos.com,OutSide
 host-suffix,zaobao.com.sg,OutSide
 host-suffix,zeutch.com,OutSide
 host-suffix,zynamics.com,OutSide
+
+//add 1password
+host-suffix,agilebits.com,OutSide
+host-suffix,1password.com,OutSide
+
 host-keyword,amazon,OutSide,force-remote-dns
 host-keyword,appledaily,OutSide,force-remote-dns
 host-keyword,blogspot,OutSide,force-remote-dns
