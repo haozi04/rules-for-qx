@@ -816,6 +816,7 @@ host-suffix,zynamics.com,OutSide
 //add 1password
 host-suffix,agilebits.com,OutSide
 host-suffix,1password.com,OutSide
+host-suffix,1passwordservices.com,OutSide
 
 host-keyword,amazon,OutSide,force-remote-dns
 host-keyword,appledaily,OutSide,force-remote-dns
